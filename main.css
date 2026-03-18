@@ -1,4 +1,13 @@
-/seu-projeto
-├── index.html
-├── main.css
-└── main.js
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="main.css"> <!-- LINK PARA O CSS -->
+    <title>Sistema RA</title>
+</head>
+<body>
+    <!-- Conteúdo do App (mesmo do exemplo anterior) -->
+    
+    <script src="main.js"></script> <!-- LINK PARA O JS -->
+</body>
+</html>
